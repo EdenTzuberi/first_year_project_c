@@ -1,4 +1,4 @@
-# FirstYear_exercise_4
+# first year project at c 
 
 This my fourth project in "Introduction to Programming and C language" course.
 
