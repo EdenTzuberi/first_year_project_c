@@ -12,4 +12,4 @@ At this project I had to do one program who does 4 tasks.
    
 3. Write function who gets amount in NIS ,Dollar rate, Euro rate, Pound rate and returns amount in those rates.
 
-4.Structs - write a function who gets arrays and their sizes and calculates the total cost of the purchase.
+4. Structs - write a function who gets arrays and their sizes and calculates the total cost of the purchase.
