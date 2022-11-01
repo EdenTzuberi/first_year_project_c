@@ -1,6 +1,6 @@
 # first year project at c 
 
-This my fourth project in "Introduction to Programming and C language" course.
+This my fourth project in "Introduction to Programming in C language" course.
 
 At this project I had to do one program who does 4 tasks.
 1. Write a function who recives any text:
